@@ -22,3 +22,7 @@ npm start
 Then restart your browser for first run
 
 At the localhost:3000 you will see result (you need to allow browser get your geolocation or you will see standard response)
+
+### Link for test
+
+`https://weather-app-by-location.herokuapp.com/`
